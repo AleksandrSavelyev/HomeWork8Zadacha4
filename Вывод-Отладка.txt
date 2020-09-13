@@ -1,0 +1,8 @@
+﻿"HomeWork8Zadacha4.exe" (CoreCLR: DefaultDomain). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\System.Private.CoreLib.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"HomeWork8Zadacha4.exe" (CoreCLR: clrhost). Загружено "D:\HomeWork(VS)\HomeWork8\HomeWork8Zadacha4\HomeWork8Zadacha4\bin\Debug\netcoreapp3.1\HomeWork8Zadacha4.dll". Символы загружены.
+"HomeWork8Zadacha4.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\System.Runtime.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"HomeWork8Zadacha4.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\System.Console.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"HomeWork8Zadacha4.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\System.Threading.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"HomeWork8Zadacha4.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\System.Runtime.Extensions.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"HomeWork8Zadacha4.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\System.Text.Encoding.Extensions.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+Программа "[8296] HomeWork8Zadacha4.exe" завершилась с кодом 0 (0x0).
