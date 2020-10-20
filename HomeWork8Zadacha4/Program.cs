@@ -16,6 +16,7 @@ namespace HomeWork8Zadacha4
             user.GetInfo();
             Console.WriteLine($"{user.First} купюр наминалом {user.Second}Ррублей составляет {user.IsMoney}Рублей");
             Console.WriteLine($"на {user.Price}рублей можно купить {user.GetProd()}");
+            Console.ReadKey();
         }
         static int CheVal()
         {
